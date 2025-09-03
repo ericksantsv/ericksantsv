@@ -31,12 +31,12 @@ Sou entusiasta da tecnologia e inovação, com foco em **desenvolvimento de APIs
 ---
 
 ## 📊 GitHub Stats
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksantos&show_icons=true&theme=radical)
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksantsv&show_icons=true&theme=radical)
 
 ---
 
 ## 🧠 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantos&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksantsv&layout=compact&theme=radical)
 
 ---
 
