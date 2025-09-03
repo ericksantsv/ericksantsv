@@ -1,37 +1,32 @@
 # Olá! Eu sou o Erick Santos Alves 👋
 
-💻 Desenvolvedor Back-end em formação | Apaixonado por tecnologia, games e aprendizado contínuo
+💻 Desenvolvedor Back-end em formação | Focado em C# e Java | Apaixonado por tecnologia, games e aprendizado contínuo
 
-Sou entusiasta da tecnologia e da inovação, com foco em desenvolvimento de APIs, .NET e soluções escaláveis. Gosto de explorar novas ferramentas, estudar padrões de desenvolvimento e compartilhar conhecimento com a comunidade.  
+Sou entusiasta da tecnologia e inovação, com foco em **desenvolvimento de APIs, sistemas escaláveis e soluções back-end robustas**. Gosto de explorar boas práticas, padrões de arquitetura e compartilhar conhecimento com a comunidade de desenvolvedores.
 
 ---
 
 ## 🏢 Experiência e Formação
-- 🚀 Formação pela **DIO** e experiência prática em projetos .NET e Entity Framework.
-- 💡 Aprendizado contínuo em **C# / .NET, APIs REST e desenvolvimento de sistemas back-end**.
+- 📖 Cursando Superior em **Análise e Desenvolvimento de Sistemas**.
+- 🚀 Formação pela **DIO**, com experiência prática em projetos **C#/.NET e Java**.
+- 💡 Aprendizado contínuo em **desenvolvimento de APIs REST, CRUDs e sistemas back-end escaláveis**.
 - 🎮 Interesse especial em tecnologia aplicada ao **nicho gamer e eletrônicos**.
 
 ---
 
-## 📱 Skills
-- Linguagens: **C#, SQL, JavaScript**
-- Frameworks: **.NET, Entity Framework**
-- Ferramentas: **Git, GitHub, Visual Studio**
-- Conceitos: **APIs REST, CRUD, boas práticas de código**
-
----
-
-## 🚀 Projetos em Destaque
-- [Sistema Gerenciador de Tarefas](#) – API e CRUDs com .NET e Entity Framework.
-- [Loja Gamer Virtual](#) – Projeto de e-commerce focado em produtos de TI/eletrônicos.
-- [Projetos Acadêmicos DIO](#) – Diversos desafios e aplicações práticas de back-end.
+## 🔧 Skills e Especializações
+- **Linguagens:** C#, Java, SQL, JavaScript  
+- **Frameworks & Tecnologias:** .NET, Spring Boot, Entity Framework, JPA, REST API  
+- **Ferramentas & Versionamento:** Git, GitHub, Visual Studio, IntelliJ IDEA, Postman  
+- **Conceitos e Práticas:** Design Patterns, Clean Code, Testes Unitários, Boas Práticas de API, CRUD, Orientação a Objetos, SOLID, Arquitetura em Camadas  
 
 ---
 
 ## 🎯 Objetivos
-- Evoluir como desenvolvedor back-end e participar de projetos desafiadores.
-- Criar soluções tecnológicas que impactem positivamente a vida das pessoas.
-- Compartilhar conhecimento com a comunidade de desenvolvedores.
+- Evoluir como **desenvolvedor back-end pleno/sênior**, participando de projetos desafiadores.  
+- Criar sistemas escaláveis, eficientes e fáceis de manter.  
+- Compartilhar conhecimento e contribuir com a comunidade de desenvolvedores.
+- Desenvolver jogos.
 
 ---
 
@@ -46,6 +41,5 @@ Sou entusiasta da tecnologia e da inovação, com foco em desenvolvimento de API
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/ericksantos)
-- [Email](mailto:ericksantos@example.com)
-
+- [LinkedIn](https://www.linkedin.com/in/erick-santos-alves)  
+- [Email](mailto:ericksantos9991@gmail.com)
