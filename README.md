@@ -43,4 +43,4 @@ Sou entusiasta da tecnologia e inovação, com foco em **desenvolvimento de APIs
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/erick-santos-alves)  
 - [Gmail](https://mail.google.com/mail/?view=cm&to=ericksantos9991@gmail.com)
-
+  
